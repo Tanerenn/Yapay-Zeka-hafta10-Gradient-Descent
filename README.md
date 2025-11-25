@@ -1,0 +1,1 @@
+# Yapay-Zeka-hafta10-Gradient-Descent
